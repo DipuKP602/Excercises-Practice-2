@@ -1,0 +1,15 @@
+C:\Users\dkp\source\repos\Excercises2\Excercises2\bin\Debug\net6.0\Excercises2.exe
+C:\Users\dkp\source\repos\Excercises2\Excercises2\bin\Debug\net6.0\Excercises2.deps.json
+C:\Users\dkp\source\repos\Excercises2\Excercises2\bin\Debug\net6.0\Excercises2.runtimeconfig.json
+C:\Users\dkp\source\repos\Excercises2\Excercises2\bin\Debug\net6.0\Excercises2.dll
+C:\Users\dkp\source\repos\Excercises2\Excercises2\bin\Debug\net6.0\Excercises2.pdb
+C:\Users\dkp\source\repos\Excercises2\Excercises2\obj\Debug\net6.0\Excercises2.csproj.AssemblyReference.cache
+C:\Users\dkp\source\repos\Excercises2\Excercises2\obj\Debug\net6.0\Excercises2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkp\source\repos\Excercises2\Excercises2\obj\Debug\net6.0\Excercises2.AssemblyInfoInputs.cache
+C:\Users\dkp\source\repos\Excercises2\Excercises2\obj\Debug\net6.0\Excercises2.AssemblyInfo.cs
+C:\Users\dkp\source\repos\Excercises2\Excercises2\obj\Debug\net6.0\Excercises2.csproj.CoreCompileInputs.cache
+C:\Users\dkp\source\repos\Excercises2\Excercises2\obj\Debug\net6.0\Excercises2.dll
+C:\Users\dkp\source\repos\Excercises2\Excercises2\obj\Debug\net6.0\refint\Excercises2.dll
+C:\Users\dkp\source\repos\Excercises2\Excercises2\obj\Debug\net6.0\Excercises2.pdb
+C:\Users\dkp\source\repos\Excercises2\Excercises2\obj\Debug\net6.0\Excercises2.genruntimeconfig.cache
+C:\Users\dkp\source\repos\Excercises2\Excercises2\obj\Debug\net6.0\ref\Excercises2.dll
